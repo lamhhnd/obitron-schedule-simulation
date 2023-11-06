@@ -1,0 +1,13 @@
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\bin\Debug\get-list-sat.exe.config
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\bin\Debug\get-list-sat.exe
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\bin\Debug\get-list-sat.pdb
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\bin\Debug\SGP.NET.dll
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\bin\Debug\SGP.NET.pdb
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get-list-sat.csproj.AssemblyReference.cache
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get_list_sat.Form1.resources
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get_list_sat.Properties.Resources.resources
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get-list-sat.csproj.GenerateResource.cache
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get-list-sat.csproj.CoreCompileInputs.cache
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get-list-sat.csproj.CopyComplete
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get-list-sat.exe
+D:\Lam_\get-list-sat-from-tle\get-list-sat\get-list-sat\obj\Debug\get-list-sat.pdb
